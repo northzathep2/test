@@ -1,10 +1,10 @@
 [
     {
-      "relation": ["delegate_permission/common.handle_all_urls"],
+      "relation":["delegate_permission/common.handle_all_urls"],
       "target": {
-        "namespace": "android_app",
-        "package_name": "com.example.mydeeplinking",
-        "sha256_cert_fingerprints": ["BC:92:28:BE:12:AF:5F:86:3D:8D:58:08:81:07:DC:D6:2D:0E:A1:99:F5:8D:5F:67:BF:89:C8:DA:9F:5E:17:AD"]
+        "namespace":"android_app",
+        "package_name":"com.example.newdeeplinking",
+        "sha256_cert_fingerprints":["BC:92:28:BE:12:AF:5F:86:3D:8D:58:08:81:07:DC:D6:2D:0E:A1:99:F5:8D:5F:67:BF:89:C8:DA:9F:5E:17:AD"]
       }
     }
   ]
